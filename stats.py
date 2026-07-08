@@ -1,1 +1,1 @@
-#this holder for python
+this file for stats in puthon
